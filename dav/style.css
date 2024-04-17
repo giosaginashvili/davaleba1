@@ -1,0 +1,86 @@
+body{background: #13806e;}
+.d1{font-size: 20px;
+background-color: #ffe600;
+border-radius: 50px 50px 50px 50px;}
+    .p1{font-size: 35px;
+    color: #ecd71a;}
+    img{border-radius: 50px 50px 50px 50px;
+    margin-left: 300px;}
+    .p2{
+        margin-left: 650px;
+        font-size: 35px;
+        color: #0033ff;
+    }
+   .img1{margin-left:699px;
+          margin-top: -250px;
+        border-radius: 50px 50px 50px 50px;}
+
+          .d2{font-size: 20px;
+            background: #0033ff;
+         border-radius: 10px 10px 10px 10px;}
+
+         .d3{background-color: aqua;
+        border-radius: 10px 10px 10px 10px;
+        margin-top:50px ;
+        }
+         .p3{margin-left: 650px;
+        font-size: 35px;
+     color: #ecd71a;
+     }
+     .img2{margin-left: -220px;
+           margin-top: -200px;
+        border-radius: 50px 50px 50px 50px; }
+        .img3{margin-left: 770px;
+               margin-top: -200px;  }
+               .p4{margin-left: 700px;
+                    margin-top:70px ;
+                      font-size:35px ;
+                    color: darkorchid;}
+            .d4{background: #b7ff00;
+            border-radius: 10px 50px 50px 10px;}   
+            .img4{margin-left: 880px;
+            margin-top: -265px;}  
+            .p5{margin-left:700px ;
+            font-size:35px ;
+        color: cadetblue;}    
+            .d5{font-size: 20px;
+            background:green ;
+        border-radius: 10px 10px 10px 10px;} 
+            .img5{margin-left: 700px;
+            margin-top: -210px;}  
+            
+            .p6{margin-left: 700px;
+            font-size: 35px;
+        color: gray;}
+        .img6{margin-left: 720px;
+        margin-top: -200px;}
+        .d6{background-color: darkred;
+        border-radius: 10px 10px 10px 10px;}
+        .p7{margin-left: 700px;
+        font-size: 35px;}
+        .img7{margin-left: 750px;
+        margin-top: -370px;}
+        .img8{margin-left: 800px;}
+        .d7{background: greenyellow;
+        border-radius: 10px 10px 10px 10px;}
+        .img9{margin-left: 800px;
+        margin-top: -200px;}
+        .p8{margin-left: 700px;
+        font-size: 35px;}
+        .d8{background: cornflowerblue;
+        }
+        .p9{margin-left: 700px;
+        font-size: 35px;}
+        .d9{background: cyan;}
+        .img10{margin-left: 800px;
+        margin-top: -200px;}
+        .link1{margin-top: 70px;
+        margin-left: 400px;}
+
+.l1{margin-left: 700px;}
+.l2{margin-left: 700px;}
+.l3{margin-left: 700px;}
+.l4{margin-left: 700px;}
+.l5{margin-left: 700px;}
+.l6{margin-left: 700px;}
+.l7{margin-left: 700px;}
